@@ -1,28 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Thendo Terrence Mudau
-==============================================================================================================================================
+# Hi 👋, I'm Thendo Terrence Mudau
 
-Software Developer
-------------------
+### 💻 Software Developer | Frontend & Backend Development
 
-I am a Software Developer passionate about building practical solutions through technology. I am continuously developing my skills in JavaScript, SQL, web development, and cloud computing while working on projects that strengthen my problem-solving and programming abilities.
+I'm a Software Developer at **Eragatewat (Pty) Ltd**, passionate about building practical, user-focused applications and solving real-world problems through technology.
 
-I enjoy learning new technologies, building applications, and improving my skills through hands-on practice. I am also exploring cloud computing and Microsoft Azure to expand my technical knowledge.
+I work with **HTML, CSS, JavaScript, React, Node.js, and REST APIs**, developing my ability to build interactive user interfaces, create backend functionality, and connect applications through APIs. I enjoy understanding how applications work from frontend to backend and turning ideas into functional, reliable software.
 
-My goal is to grow as a developer, contribute to meaningful projects, collaborate with other developers, and build technology that makes a difference.
+I'm committed to writing clean, maintainable code, improving my problem-solving skills, and continuously learning modern development practices. I believe in taking initiative, adapting to new challenges, and building solutions that deliver real value to users and businesses.
 
-\*\*Technical Interests:\*\* JavaScript | SQL | Web Development | Cloud Computing | Microsoft Azure | Git & GitHub
+## 🚀 Technical Skills
 
-\*\*Currently:\*\* Learning, building projects, and growing my software development portfolio.
+- **Frontend Development:** HTML5, CSS3, JavaScript, React
+- **Backend Development:** Node.js, REST API integration and development
+- **Databases:** PostgreSQL, SQL
+- **Tools & Version Control:** Git, GitHub, Visual Studio Code
+- **Currently Exploring:** TypeScript, AWS, and modern software architecture
 
-* 🌍  I'm based in Gauteng Johanneburg
-* 🖥️  See my portfolio at [https://thendo-portfolio.vercel.app/](http://https://thendo-portfolio.vercel.app/)
-* ✉️  You can contact me at [Mudauthendot@gmail.com](mailto:Mudauthendot@gmail.com)
-* 🧠  I'm currently learning react ,node.js,Typescript and AWS
+## 🛠️ What I Can Build
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" title="Sass" width="36" height="36" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" title="Vue" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
-</p>
+- Responsive, user-friendly web applications.
+- Interactive frontend interfaces using React and JavaScript.
+- Backend functionality using Node.js.
+- Applications that communicate with REST APIs.
+- Database-driven applications using SQL and PostgreSQL.
+- Projects managed with Git and GitHub.
 
-### Socials
+## 💡 What Sets Me Apart
 
-<p align="left"> <a href="https://www.linkedin.com/in/www.linkedin.com/in/thendo-terrence-mudau-a00522240" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+- **Problem-solving:** I focus on understanding challenges and developing practical solutions.
+- **Full-stack mindset:** I understand how frontend interfaces, backend services, APIs, and databases work together.
+- **Continuous improvement:** I actively strengthen my technical skills and explore new technologies.
+- **Code quality:** I value readable, maintainable code and effective development practices.
+- **Professional growth:** I am eager to collaborate with experienced developers, contribute to real-world projects, and take on new challenges.
+
+## 🎯 Career Objective
+
+My goal is to become a well-rounded software developer who builds reliable, scalable, and impactful applications. I want to contribute to innovative projects, collaborate with strong engineering teams, and use technology to solve meaningful business and user problems.
+
+I'm open to connecting with developers, collaborating on projects, and exploring opportunities where I can contribute my existing skills while continuing to grow.
+
+## 🌍 About Me
+
+- 💼 **Current Position:** Software Developer at Eragatewat (Pty) Ltd
+- 📍 **Location:** Gauteng, South Africa
+- 🌐 **Portfolio:** [thendo-portfolio.vercel.app](https://thendo-portfolio.vercel.app/)
+- 📧 **Email:** [Mudauthendot@gmail.com](mailto:Mudauthendot@gmail.com)
+- 🌱 **Continuous Learning:** Modern web development, TypeScript, AWS, and software engineering best practices
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, sharing knowledge, building useful applications, and exploring opportunities to make an impact through software.
+
+**I build, I learn, I solve problems, and I keep improving. Let's create something meaningful with technology.** 🚀
