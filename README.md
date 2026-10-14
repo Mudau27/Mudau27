@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am an aspiring Software Developer passionate about building practical solutions through technology. I am continuously developing my skills in JavaScript, SQL, web development, and cloud computing while working on projects that strengthen my problem-solving and programming abilities.
+I am a Software Developer passionate about building practical solutions through technology. I am continuously developing my skills in JavaScript, SQL, web development, and cloud computing while working on projects that strengthen my problem-solving and programming abilities.
 
 I enjoy learning new technologies, building applications, and improving my skills through hands-on practice. I am also exploring cloud computing and Microsoft Azure to expand my technical knowledge.
 
