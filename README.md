@@ -1,54 +1,96 @@
 # Hi 👋, I'm Thendo Terrence Mudau
 
-### 💻 Software Developer | Frontend & Backend Development
+### Software Developer | React | Node.js | REST APIs
 
 I'm a Software Developer at **Eragatewat (Pty) Ltd**, passionate about building practical, user-focused applications and solving real-world problems through technology.
 
-I work with **HTML, CSS, JavaScript, React, Node.js, and REST APIs**, developing my ability to build interactive user interfaces, create backend functionality, and connect applications through APIs. I enjoy understanding how applications work from frontend to backend and turning ideas into functional, reliable software.
+With a **BSc in Computer Science and Statistics (2024)** and a **BSc Honours in Computer Science (2025)**, I combine a strong academic foundation in computer science, analytical thinking, and problem-solving with practical software development skills.
 
-I'm committed to writing clean, maintainable code, improving my problem-solving skills, and continuously learning modern development practices. I believe in taking initiative, adapting to new challenges, and building solutions that deliver real value to users and businesses.
+I work with **HTML, CSS, JavaScript, React, Node.js, and REST APIs**, developing applications that connect interactive user interfaces with backend functionality and services. I enjoy learning how different parts of a software system work together to deliver reliable and effective solutions.
 
-## 🚀 Technical Skills
+My approach to software development is built around continuous learning, writing maintainable code, understanding user needs, and turning ideas into functional applications. I'm always looking for opportunities to improve my skills, collaborate with other developers, and contribute to projects that create meaningful value.
 
-- **Frontend Development:** HTML5, CSS3, JavaScript, React
-- **Backend Development:** Node.js, REST API integration and development
-- **Databases:** PostgreSQL, SQL
-- **Tools & Version Control:** Git, GitHub, Visual Studio Code
-- **Currently Exploring:** TypeScript, AWS, and modern software architecture
+## 💻 Technical Skills
 
-## 🛠️ What I Can Build
+**Frontend Development**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
 
-- Responsive, user-friendly web applications.
-- Interactive frontend interfaces using React and JavaScript.
-- Backend functionality using Node.js.
-- Applications that communicate with REST APIs.
+**Backend Development**
+- Node.js
+- REST APIs
+- API integration
+
+**Databases**
+- SQL
+- PostgreSQL
+
+**Tools & Technologies**
+- Git and GitHub
+- Visual Studio Code
+- Vite
+
+**Currently Expanding My Knowledge**
+- TypeScript
+- AWS and cloud computing
+- Software architecture and development best practices
+
+## 🚀 What I Bring to a Team
+
+- **Problem-solving:** I use analytical thinking to understand challenges and develop practical solutions.
+- **Full-stack development mindset:** I understand how frontend interfaces, backend services, APIs, and databases work together.
+- **Adaptability:** I'm committed to learning new technologies and adapting to changing project requirements.
+- **Code quality:** I value readable, maintainable code and building applications with the user in mind.
+- **Continuous improvement:** I actively seek opportunities to strengthen my technical abilities and learn from other developers.
+- **Collaboration:** I'm eager to contribute to team goals, share ideas, and participate in meaningful software projects.
+
+## 🎓 Education
+
+- **BSc Honours in Computer Science** — 2025
+- **BSc in Computer Science and Statistics** — 2024
+
+My academic background has developed my analytical reasoning, quantitative thinking, and understanding of computer science principles. I apply this foundation to software development, problem-solving, and building technology-driven solutions.
+
+## 🛠️ Projects & Practical Development
+
+I use personal and professional projects to strengthen my programming skills, explore new technologies, and apply software development principles to practical challenges.
+
+I'm particularly interested in building:
+- Responsive and interactive web applications.
+- React applications with intuitive user interfaces.
+- Backend services using Node.js.
+- Applications that consume and integrate REST APIs.
 - Database-driven applications using SQL and PostgreSQL.
-- Projects managed with Git and GitHub.
 
-## 💡 What Sets Me Apart
+Explore my repositories to see my development journey, technical interests, and projects.
 
-- **Problem-solving:** I focus on understanding challenges and developing practical solutions.
-- **Full-stack mindset:** I understand how frontend interfaces, backend services, APIs, and databases work together.
-- **Continuous improvement:** I actively strengthen my technical skills and explore new technologies.
-- **Code quality:** I value readable, maintainable code and effective development practices.
-- **Professional growth:** I am eager to collaborate with experienced developers, contribute to real-world projects, and take on new challenges.
+## 🌱 Career Goals
 
-## 🎯 Career Objective
+My goal is to continue growing as a software developer, contribute to high-quality software projects, and build reliable, maintainable applications that solve real-world problems.
 
-My goal is to become a well-rounded software developer who builds reliable, scalable, and impactful applications. I want to contribute to innovative projects, collaborate with strong engineering teams, and use technology to solve meaningful business and user problems.
+I'm interested in opportunities that allow me to apply my existing technical knowledge, learn from experienced engineers, collaborate with talented teams, and take on increasingly challenging development responsibilities.
 
-I'm open to connecting with developers, collaborating on projects, and exploring opportunities where I can contribute my existing skills while continuing to grow.
+I believe that a strong developer combines technical ability with curiosity, accountability, communication, and a willingness to keep improving.
 
 ## 🌍 About Me
 
-- 💼 **Current Position:** Software Developer at Eragatewat (Pty) Ltd
+- 💼 **Current Role:** Software Developer at Eragatewat (Pty) Ltd
 - 📍 **Location:** Gauteng, South Africa
-- 🌐 **Portfolio:** [thendo-portfolio.vercel.app](https://thendo-portfolio.vercel.app/)
+- 🎓 **Qualifications:** BSc Computer Science and Statistics; BSc Honours Computer Science
+- 🌐 **Portfolio:** [Visit My Portfolio](https://thendo-portfolio.vercel.app/)
 - 📧 **Email:** [Mudauthendot@gmail.com](mailto:Mudauthendot@gmail.com)
-- 🌱 **Continuous Learning:** Modern web development, TypeScript, AWS, and software engineering best practices
+- 💻 **Interests:** Web development, backend development, APIs, databases, and cloud computing
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, sharing knowledge, building useful applications, and exploring opportunities to make an impact through software.
+I'm interested in connecting with fellow developers, collaborating on meaningful projects, exchanging knowledge, and exploring opportunities to contribute to innovative software solutions.
 
-**I build, I learn, I solve problems, and I keep improving. Let's create something meaningful with technology.** 🚀
+If you're interested in my work or would like to collaborate, feel free to reach out.
+
+**I combine academic knowledge, practical development skills, and a commitment to continuous improvement to build software that makes a difference.** 🚀
+
+---
+
+⭐ *Keep learning. Keep building. Keep solving problems.*
